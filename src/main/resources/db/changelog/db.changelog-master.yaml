@@ -1,0 +1,7 @@
+databaseChangeLog:
+- include:    
+     file: db/changelog/changes/book_details_09-03-2025.sql
+#- include:    
+#     file: db/changelog/changes/student_details_09-03-2024.sql 
+# - includeAll:
+#      path: db/changelog/changes/  
